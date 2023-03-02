@@ -50,7 +50,7 @@ header {
     top: 0;
     right: 0;
     z-index: 100;
-    transition: all 500ms;
+    transition: all 400ms;
 
 }
 
